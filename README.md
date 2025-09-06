@@ -1,1 +1,1 @@
-have a quick chat with anyone in real-time in a unique chat room based on the url, Share it with others to chat with them! its an anonymously distributed system and users are assigned their own chat room when they first visit 747.run
+have a quick chat with anyone in real-time in a unique chat room based on the url, and share the url with others to chat with them! its an anonymously distributed system and users are assigned their own chat room when they first visit 747.run
